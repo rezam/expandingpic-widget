@@ -1,2 +1,2 @@
 # expandingpic-widget
-Expanding image widget
+simple expanding image widget by JS.
